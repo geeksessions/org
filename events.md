@@ -3,6 +3,7 @@
 ## Event types
 * Talks
 * Workshops
+* Fireside Chats
 
 ### Talks
 
@@ -33,6 +34,14 @@ Some rough guidelines:
 * venues might cost a bit of money, get sponsors
 * sponsors can also help with amenities like food/drink/internet
 * 3-6 hours - if > 3 hours, have a larger break for food/drinks
+
+### Fireside Chats
+
+An informal type of interview with an invited Guest. Usually its a bit more free form, and its expected to cover many aspects, both personal and professional. 
+
+Topics are usually arranged beforehand but only to the degree of figuring out any areas that the guest might be unconfortable discussing.
+
+No set rules for this really. It's usually around some personal our group of people that we want to give a platform to. Example: the local Geek Girls Chapter organizers.
 
 
 
