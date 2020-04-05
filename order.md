@@ -7,12 +7,12 @@ These poor souls toil through the waning hours of the night or stolen moments of
 
 Them , who suffer are thus named ...in case you might need to reach a human that has a chance of knowing whats happening :)
 
-André Jonas
+[André Jonas](https://github.com/orgs/geeksessions/people/andrezzoid)
 
-Humberto Glória 
+[Humberto Glória](https://www.linkedin.com/in/hmggloria/)
 
-Miguel Coquet
+[Miguel Coquet](https://github.com/orgs/geeksessions/people/mcoquet)
 
-Nelson Neves
+[Nelson Neves](https://github.com/orgs/geeksessions/people/nneves)
 
-Tiago Fernandes
+[Tiago Fernandes](https://github.com/tjgfernandes)
