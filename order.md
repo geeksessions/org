@@ -9,10 +9,16 @@ Them , who suffer are thus named ...in case you might need to reach a human that
 
 [André Jonas](https://github.com/andrezzoid)
 
+[Eduardo Vedes](https://github.com/orgs/geeksessions/people/evedes)
+
 [Humberto Glória](https://www.linkedin.com/in/hmggloria/)
+
+[João Henrique](https://github.com/orgs/geeksessions/people/Joao-Henrique)
 
 [Miguel Coquet](https://github.com/mcoquet)
 
 [Nelson Neves](https://github.com/nneves)
+
+[Penélope Gonçalves](https://github.com/orgs/geeksessions/people/penelopeg)
 
 [Tiago Fernandes](https://github.com/tjgfernandes)
